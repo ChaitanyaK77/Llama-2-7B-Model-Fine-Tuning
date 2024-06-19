@@ -45,7 +45,7 @@ To start the application:
     streamlit run app.py
     ```
 
-2. **Access the Web Interface**:
+2. **Access the Web Interface**
     
 
 3. **Generate Blog Content**:
