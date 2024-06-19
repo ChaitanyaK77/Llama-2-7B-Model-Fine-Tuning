@@ -22,24 +22,18 @@ Before you begin, ensure you have met the following requirements:
 
 To set up the project locally, follow these steps:
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/ai-blog-generator.git
-    cd ai-blog-generator
-    ```
-
-2. **Create a Virtual Environment**:
+1. **Create a Virtual Environment**:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
-3. **Install Dependencies**:
+2. **Install Dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
 
-4. **Download the Llama 2 7B Chat Model**:
+3. **Download the Llama 2 7B Chat Model**:
     Ensure the model file `llama-2-7b-chat.ggmlv3.q8_0.bin` is downloaded and placed in the appropriate directory.
 
 ## Usage
