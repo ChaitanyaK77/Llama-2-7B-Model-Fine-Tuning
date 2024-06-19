@@ -61,7 +61,7 @@ We welcome contributions! If you would like to contribute, please fork the repos
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+![img](image.png)
 ## Acknowledgements
 
 We extend our gratitude to:
