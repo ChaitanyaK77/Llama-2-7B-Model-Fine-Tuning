@@ -52,7 +52,7 @@ To start the application:
     ```
 
 2. **Access the Web Interface**:
-    Open your web browser and navigate to `http://localhost:8501`.
+    
 
 3. **Generate Blog Content**:
     - Enter the topic name.
@@ -74,4 +74,4 @@ We extend our gratitude to:
 - Meta for the Llama 2 model.
 - The developers of `streamlit`, `langchain`, `langchain_community`, and `ctransformers`.
 
-Thank you for using our AI-Powered Blog Generation platform! If you have any questions or feedback, please feel free to reach out.
+
