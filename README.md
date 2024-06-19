@@ -64,7 +64,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ![img](image.png)
 ## Acknowledgements
 
-We extend our gratitude to:
 - Meta for the Llama 2 model.
 - The developers of `streamlit`, `langchain`, `langchain_community`, and `ctransformers`.
 
