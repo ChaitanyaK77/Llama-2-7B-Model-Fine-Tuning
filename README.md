@@ -58,9 +58,7 @@ To start the application:
 
 We welcome contributions! If you would like to contribute, please fork the repository and create a pull request. For significant changes, consider opening an issue to discuss your ideas.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ![img](image.png)
 ## Acknowledgements
 
